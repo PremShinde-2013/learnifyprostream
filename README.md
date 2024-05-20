@@ -1,6 +1,4 @@
-Sure, here's a comprehensive `README.md` file for your project:
 
-```markdown
 # LearnifyProStream
 
 LearnifyProStream is an online meeting platform that allows users to schedule meetings and create personal rooms. Built with modern web technologies, LearnifyProStream provides a seamless and interactive user experience for virtual meetings.
@@ -103,6 +101,6 @@ We welcome contributions to LearnifyProStream! If you'd like to contribute, plea
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
 
 Feel free to adjust the content as needed to better match your project's specifics and your preferences.
